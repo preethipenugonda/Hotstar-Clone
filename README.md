@@ -3,4 +3,7 @@
 #BLOG
 https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if-youre-not-a-pro/
 preethi
+ HEAD
 sweety
+Poll SCM test
+ b796bc7 (Test poll SCM trigger)
